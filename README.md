@@ -1,4 +1,4 @@
-# Semantic_Search_Engine
+# Semantic Search Engine
 
 Authors: Deepak Shanmugam, Mohanakrishna V H, Vidya Sri Mani
 
